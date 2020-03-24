@@ -1,0 +1,19 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Demostrate very simple web-app functionality",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Antunez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteoantunez/node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matteoantunez/node-server/issues"
+  },
+  "homepage": "https://github.com/matteoantunez/node-server#readme"
+}
